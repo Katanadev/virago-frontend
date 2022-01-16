@@ -1,0 +1,16 @@
+{
+  "short_name": "Virago AMM",
+  "name": "Virago AMM",
+  "description": "The first decentralized Certificate of Deposit on the Binance Smart Chain. Earn up to 40% APY with Virago",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
