@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "VIR Stats"
+        "text": "Statistics"
       }
     },
     {
@@ -669,7 +669,7 @@
     {
       "data": {
         "stringId": 542,
-        "text": "Farms & Staking"
+        "text": "Farming & Staking"
       }
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "data": {
         "stringId": 10003,
-        "text": "Announcements"
+        "text": "Twitter"
       }
     },
     {

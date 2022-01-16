@@ -62,8 +62,8 @@ const config: MenuEntry[] = [
         href: 'https://coinmarketcap.com/currencies/goose-finance/',
       },
       {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+        label: 'PooCoin',
+        href: 'https://poocoin.app/',
       },
     ],
   },
