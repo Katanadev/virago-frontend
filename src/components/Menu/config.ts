@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Nests',
+    label: 'Stake',
     icon: 'PoolIcon',
     href: '/nests',
   },
@@ -84,11 +84,6 @@ const config: MenuEntry[] = [
         href: 'https://virago.medium.com/',
       },
     ],
-  },
-  {
-    label: 'Partnerships/IFO',
-    icon: 'GooseIcon',
-    href: 'https://docs.google.com',
   },
   {
     label: 'Audit',
